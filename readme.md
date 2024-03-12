@@ -139,11 +139,6 @@ This data is sent periodically via LoRa, alternating between sending climatic da
 ### Objective
 This project allows for real-time monitoring of weather conditions remotely, being a valuable tool for areas such as precision agriculture, environmental studies, and climate monitoring in remote areas. Through the use of LoRaWAN technology, it is possible to achieve wide area coverage with low energy consumption, ideal for installations in remote or difficult-to-access locations.
 
-
-### Spanish Version
-
-La traducción al español superará el límite de 350 caracteres si se incluyen todas las secciones detalladas anteriormente. En su lugar, aquí hay una descripción general simplificada que se ajusta a la limitación de caracteres:
-
 # Estación Meteorológica con LoRaWAN
 
 Este repositorio alberga el código fuente e instrucciones para construir una estación meteorológica basada en LoRaWAN, diseñada para recoger datos climáticos como temperatura, humedad, velocidad y dirección del viento, y precipitaciones, para enviarlos a un gateway LoRa. Posteriormente, estos datos se transmiten a un servidor MQTT, permitiendo el monitoreo remoto de las condiciones meteorológicas.
